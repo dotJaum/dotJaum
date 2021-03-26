@@ -1,4 +1,4 @@
-## Olá eu sou o João(Sad) 👋
+## Olá eu sou o João Vitor 👋
 
 ## Mídia social
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Sad-debug/)](https://github.com/Sad-debug/)
